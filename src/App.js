@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed to feature brunch
+          I was changed to feature brunch. learn react
         </a>
       </header>
     </div>
